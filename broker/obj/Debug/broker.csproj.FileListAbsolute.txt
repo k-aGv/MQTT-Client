@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\broker\broker\bin\Debug\broker.exe.config
+C:\Users\admin\Desktop\broker\broker\bin\Debug\broker.exe
+C:\Users\admin\Desktop\broker\broker\bin\Debug\broker.pdb
+C:\Users\admin\Desktop\broker\broker\bin\Debug\M2Mqtt.Net.dll
+C:\Users\admin\Desktop\broker\broker\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\admin\Desktop\broker\broker\obj\Debug\broker.Form1.resources
+C:\Users\admin\Desktop\broker\broker\obj\Debug\broker.Properties.Resources.resources
+C:\Users\admin\Desktop\broker\broker\obj\Debug\broker.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\broker\broker\obj\Debug\broker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\broker\broker\obj\Debug\broker.exe
+C:\Users\admin\Desktop\broker\broker\obj\Debug\broker.pdb
